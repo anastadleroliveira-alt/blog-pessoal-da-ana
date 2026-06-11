@@ -1,0 +1,9 @@
+body{
+    background-color: dodgerblue;
+}
+header{
+    background-color: azure;
+    color:black;
+    text-align: center;
+    max-width: 800px;
+}
